@@ -28,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" width="60"/>
 </div>
   
-  ## Connect with me:
+  ## Contact:
  
 <div>
   <a href="https://www.linkedin.com/in/paulo-magalh%C3%A3es-328aa2237" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
